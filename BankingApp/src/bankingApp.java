@@ -28,8 +28,13 @@ public class bankingApp {
 		public void m6() {
 			
 		}
-		}
 		
-}
+		
+        public void m7() {
+        	
+        	
+        }
+        
+        }
 		
 
