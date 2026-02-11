@@ -25,6 +25,11 @@ public class bankingApp {
 			
 		}
 		
+		public void m6() {
+			
+		}
+		}
+		
 }
 		
 
